@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>Energy Data</title>
+	</head>
+	<body>
+		<h1>Energy Table</h1>
+		<table id="energy"></table>
+		<script>
+			fetch('energy_data.json')
+				.then((res) => res.json())
+				.then((data) => {
+					const table = document.getElementById('energy');
+					table.innerHTML =
+						'<tr><th>Country</th><th>BTU</th><th>World Share</th><th>Per Capita BTU</th></tr>' +
+						data
+							.map(
+								(d) =>
+									`<tr><td>${d.country}</td><td>${d.energy_consumption_BTU}</td><td>${d.world_share}</td><td>${d.per_capita_yearly_BTU}</td></tr>`,
+							)
+							.join('');
+				});
+		</script>
+	</body>
+</html>

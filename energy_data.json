@@ -1,0 +1,1256 @@
+[
+  {
+    "country": "1",
+    "energy_consumption_BTU": "China",
+    "world_share": "138,689,472,800,000",
+    "per_capita_yearly_BTU": "23.81%"
+  },
+  {
+    "country": "2",
+    "energy_consumption_BTU": "United States",
+    "world_share": "97,661,161,460,000",
+    "per_capita_yearly_BTU": "16.77%"
+  },
+  {
+    "country": "3",
+    "energy_consumption_BTU": "Russia",
+    "world_share": "32,832,743,720,001",
+    "per_capita_yearly_BTU": "5.64%"
+  },
+  {
+    "country": "4",
+    "energy_consumption_BTU": "India",
+    "world_share": "30,476,788,610,000",
+    "per_capita_yearly_BTU": "5.23%"
+  },
+  {
+    "country": "5",
+    "energy_consumption_BTU": "Japan",
+    "world_share": "19,402,928,820,000",
+    "per_capita_yearly_BTU": "3.33%"
+  },
+  {
+    "country": "6",
+    "energy_consumption_BTU": "Canada",
+    "world_share": "15,062,124,200,000",
+    "per_capita_yearly_BTU": "2.59%"
+  },
+  {
+    "country": "7",
+    "energy_consumption_BTU": "Germany",
+    "world_share": "14,062,539,590,000",
+    "per_capita_yearly_BTU": "2.41%"
+  },
+  {
+    "country": "8",
+    "energy_consumption_BTU": "South Korea",
+    "world_share": "12,659,085,870,000",
+    "per_capita_yearly_BTU": "2.17%"
+  },
+  {
+    "country": "9",
+    "energy_consumption_BTU": "Brazil",
+    "world_share": "12,566,399,560,000",
+    "per_capita_yearly_BTU": "2.16%"
+  },
+  {
+    "country": "10",
+    "energy_consumption_BTU": "Iran",
+    "world_share": "11,599,267,500,000",
+    "per_capita_yearly_BTU": "1.99%"
+  },
+  {
+    "country": "11",
+    "energy_consumption_BTU": "Saudi Arabia",
+    "world_share": "10,997,456,810,000",
+    "per_capita_yearly_BTU": "1.89%"
+  },
+  {
+    "country": "12",
+    "energy_consumption_BTU": "France",
+    "world_share": "10,241,662,730,000",
+    "per_capita_yearly_BTU": "1.76%"
+  },
+  {
+    "country": "13",
+    "energy_consumption_BTU": "United Kingdom",
+    "world_share": "8,190,849,783,001",
+    "per_capita_yearly_BTU": "1.41%"
+  },
+  {
+    "country": "14",
+    "energy_consumption_BTU": "Mexico",
+    "world_share": "7,868,848,622,000",
+    "per_capita_yearly_BTU": "1.35%"
+  },
+  {
+    "country": "15",
+    "energy_consumption_BTU": "Indonesia",
+    "world_share": "7,158,688,937,000",
+    "per_capita_yearly_BTU": "1.23%"
+  },
+  {
+    "country": "16",
+    "energy_consumption_BTU": "Italy",
+    "world_share": "6,771,608,308,000",
+    "per_capita_yearly_BTU": "1.16%"
+  },
+  {
+    "country": "17",
+    "energy_consumption_BTU": "Turkey",
+    "world_share": "6,432,497,777,000",
+    "per_capita_yearly_BTU": "1.10%"
+  },
+  {
+    "country": "18",
+    "energy_consumption_BTU": "Australia",
+    "world_share": "6,127,579,421,000",
+    "per_capita_yearly_BTU": "1.05%"
+  },
+  {
+    "country": "19",
+    "energy_consumption_BTU": "Spain",
+    "world_share": "5,726,408,206,000",
+    "per_capita_yearly_BTU": "0.98%"
+  },
+  {
+    "country": "20",
+    "energy_consumption_BTU": "South Africa",
+    "world_share": "5,672,958,314,000",
+    "per_capita_yearly_BTU": "0.97%"
+  },
+  {
+    "country": "21",
+    "energy_consumption_BTU": "Thailand",
+    "world_share": "5,519,011,566,000",
+    "per_capita_yearly_BTU": "0.95%"
+  },
+  {
+    "country": "22",
+    "energy_consumption_BTU": "Taiwan",
+    "world_share": "4,672,849,385,000",
+    "per_capita_yearly_BTU": "0.80%"
+  },
+  {
+    "country": "23",
+    "energy_consumption_BTU": "United Arab Emirates",
+    "world_share": "4,667,004,234,000",
+    "per_capita_yearly_BTU": "0.80%"
+  },
+  {
+    "country": "24",
+    "energy_consumption_BTU": "Poland",
+    "world_share": "4,334,474,486,001",
+    "per_capita_yearly_BTU": "0.74%"
+  },
+  {
+    "country": "25",
+    "energy_consumption_BTU": "Egypt",
+    "world_share": "4,012,356,526,000",
+    "per_capita_yearly_BTU": "0.69%"
+  },
+  {
+    "country": "26",
+    "energy_consumption_BTU": "Netherlands",
+    "world_share": "3,938,132,686,000",
+    "per_capita_yearly_BTU": "0.68%"
+  },
+  {
+    "country": "27",
+    "energy_consumption_BTU": "Argentina",
+    "world_share": "3,867,523,595,000",
+    "per_capita_yearly_BTU": "0.66%"
+  },
+  {
+    "country": "28",
+    "energy_consumption_BTU": "Ukraine",
+    "world_share": "3,632,194,307,000",
+    "per_capita_yearly_BTU": "0.62%"
+  },
+  {
+    "country": "29",
+    "energy_consumption_BTU": "Singapore",
+    "world_share": "3,630,377,394,000",
+    "per_capita_yearly_BTU": "0.62%"
+  },
+  {
+    "country": "30",
+    "energy_consumption_BTU": "Kazakhstan",
+    "world_share": "3,574,850,089,000",
+    "per_capita_yearly_BTU": "0.61%"
+  },
+  {
+    "country": "31",
+    "energy_consumption_BTU": "Malaysia",
+    "world_share": "3,515,197,470,000",
+    "per_capita_yearly_BTU": "0.60%"
+  },
+  {
+    "country": "32",
+    "energy_consumption_BTU": "Vietnam",
+    "world_share": "3,242,513,713,000",
+    "per_capita_yearly_BTU": "0.56%"
+  },
+  {
+    "country": "33",
+    "energy_consumption_BTU": "Pakistan",
+    "world_share": "3,183,442,105,000",
+    "per_capita_yearly_BTU": "0.55%"
+  },
+  {
+    "country": "34",
+    "energy_consumption_BTU": "Belgium",
+    "world_share": "2,684,685,429,000",
+    "per_capita_yearly_BTU": "0.46%"
+  },
+  {
+    "country": "35",
+    "energy_consumption_BTU": "Venezuela",
+    "world_share": "2,492,568,948,000",
+    "per_capita_yearly_BTU": "0.43%"
+  },
+  {
+    "country": "36",
+    "energy_consumption_BTU": "Algeria",
+    "world_share": "2,398,447,784,000",
+    "per_capita_yearly_BTU": "0.41%"
+  },
+  {
+    "country": "37",
+    "energy_consumption_BTU": "Sweden",
+    "world_share": "2,218,710,262,000",
+    "per_capita_yearly_BTU": "0.38%"
+  },
+  {
+    "country": "38",
+    "energy_consumption_BTU": "Qatar",
+    "world_share": "2,159,502,542,000",
+    "per_capita_yearly_BTU": "0.37%"
+  },
+  {
+    "country": "39",
+    "energy_consumption_BTU": "Norway",
+    "world_share": "1,901,374,555,000",
+    "per_capita_yearly_BTU": "0.33%"
+  },
+  {
+    "country": "40",
+    "energy_consumption_BTU": "Iraq",
+    "world_share": "1,865,888,786,000",
+    "per_capita_yearly_BTU": "0.32%"
+  },
+  {
+    "country": "41",
+    "energy_consumption_BTU": "Philippines",
+    "world_share": "1,832,128,988,000",
+    "per_capita_yearly_BTU": "0.31%"
+  },
+  {
+    "country": "42",
+    "energy_consumption_BTU": "Uzbekistan",
+    "world_share": "1,798,254,680,000",
+    "per_capita_yearly_BTU": "0.31%"
+  },
+  {
+    "country": "43",
+    "energy_consumption_BTU": "Czech Republic (Czechia)",
+    "world_share": "1,751,291,794,000",
+    "per_capita_yearly_BTU": "0.30%"
+  },
+  {
+    "country": "44",
+    "energy_consumption_BTU": "Turkmenistan",
+    "world_share": "1,747,505,385,000",
+    "per_capita_yearly_BTU": "0.30%"
+  },
+  {
+    "country": "45",
+    "energy_consumption_BTU": "Colombia",
+    "world_share": "1,660,776,722,000",
+    "per_capita_yearly_BTU": "0.29%"
+  },
+  {
+    "country": "46",
+    "energy_consumption_BTU": "Kuwait",
+    "world_share": "1,591,008,895,000",
+    "per_capita_yearly_BTU": "0.27%"
+  },
+  {
+    "country": "47",
+    "energy_consumption_BTU": "Nigeria",
+    "world_share": "1,540,259,766,000",
+    "per_capita_yearly_BTU": "0.26%"
+  },
+  {
+    "country": "48",
+    "energy_consumption_BTU": "Austria",
+    "world_share": "1,501,633,374,000",
+    "per_capita_yearly_BTU": "0.26%"
+  },
+  {
+    "country": "49",
+    "energy_consumption_BTU": "Chile",
+    "world_share": "1,496,140,520,000",
+    "per_capita_yearly_BTU": "0.26%"
+  },
+  {
+    "country": "50",
+    "energy_consumption_BTU": "Bangladesh",
+    "world_share": "1,417,359,711,000",
+    "per_capita_yearly_BTU": "0.24%"
+  },
+  {
+    "country": "51",
+    "energy_consumption_BTU": "Romania",
+    "world_share": "1,411,400,168,000",
+    "per_capita_yearly_BTU": "0.24%"
+  },
+  {
+    "country": "52",
+    "energy_consumption_BTU": "Hong Kong",
+    "world_share": "1,322,087,609,000",
+    "per_capita_yearly_BTU": "0.23%"
+  },
+  {
+    "country": "53",
+    "energy_consumption_BTU": "Finland",
+    "world_share": "1,227,851,414,000",
+    "per_capita_yearly_BTU": "0.21%"
+  },
+  {
+    "country": "54",
+    "energy_consumption_BTU": "Switzerland",
+    "world_share": "1,171,749,700,000",
+    "per_capita_yearly_BTU": "0.20%"
+  },
+  {
+    "country": "55",
+    "energy_consumption_BTU": "Greece",
+    "world_share": "1,161,715,086,000",
+    "per_capita_yearly_BTU": "0.20%"
+  },
+  {
+    "country": "56",
+    "energy_consumption_BTU": "Oman",
+    "world_share": "1,140,750,863,000",
+    "per_capita_yearly_BTU": "0.20%"
+  },
+  {
+    "country": "57",
+    "energy_consumption_BTU": "Peru",
+    "world_share": "1,118,522,631,000",
+    "per_capita_yearly_BTU": "0.19%"
+  },
+  {
+    "country": "58",
+    "energy_consumption_BTU": "Portugal",
+    "world_share": "1,077,120,037,000",
+    "per_capita_yearly_BTU": "0.18%"
+  },
+  {
+    "country": "59",
+    "energy_consumption_BTU": "Israel",
+    "world_share": "1,054,812,660,001",
+    "per_capita_yearly_BTU": "0.18%"
+  },
+  {
+    "country": "60",
+    "energy_consumption_BTU": "Hungary",
+    "world_share": "1,042,247,455,000",
+    "per_capita_yearly_BTU": "0.18%"
+  },
+  {
+    "country": "61",
+    "energy_consumption_BTU": "Belarus",
+    "world_share": "961,313,106,000",
+    "per_capita_yearly_BTU": "0.17%"
+  },
+  {
+    "country": "62",
+    "energy_consumption_BTU": "Trinidad and Tobago",
+    "world_share": "903,828,800,000",
+    "per_capita_yearly_BTU": "0.16%"
+  },
+  {
+    "country": "63",
+    "energy_consumption_BTU": "New Zealand",
+    "world_share": "902,498,142,000",
+    "per_capita_yearly_BTU": "0.15%"
+  },
+  {
+    "country": "64",
+    "energy_consumption_BTU": "Morocco",
+    "world_share": "819,433,637,000",
+    "per_capita_yearly_BTU": "0.14%"
+  },
+  {
+    "country": "65",
+    "energy_consumption_BTU": "Bulgaria",
+    "world_share": "774,428,141,000",
+    "per_capita_yearly_BTU": "0.13%"
+  },
+  {
+    "country": "66",
+    "energy_consumption_BTU": "Denmark",
+    "world_share": "737,324,404,000",
+    "per_capita_yearly_BTU": "0.13%"
+  },
+  {
+    "country": "67",
+    "energy_consumption_BTU": "Slovakia",
+    "world_share": "726,428,917,000",
+    "per_capita_yearly_BTU": "0.12%"
+  },
+  {
+    "country": "68",
+    "energy_consumption_BTU": "Bahrain",
+    "world_share": "719,864,742,000",
+    "per_capita_yearly_BTU": "0.12%"
+  },
+  {
+    "country": "69",
+    "energy_consumption_BTU": "Ecuador",
+    "world_share": "714,684,386,000",
+    "per_capita_yearly_BTU": "0.12%"
+  },
+  {
+    "country": "70",
+    "energy_consumption_BTU": "Serbia",
+    "world_share": "642,180,713,000",
+    "per_capita_yearly_BTU": "0.11%"
+  },
+  {
+    "country": "71",
+    "energy_consumption_BTU": "Ireland",
+    "world_share": "638,610,418,000",
+    "per_capita_yearly_BTU": "0.11%"
+  },
+  {
+    "country": "72",
+    "energy_consumption_BTU": "Azerbaijan",
+    "world_share": "594,082,525,000",
+    "per_capita_yearly_BTU": "0.10%"
+  },
+  {
+    "country": "73",
+    "energy_consumption_BTU": "Libya",
+    "world_share": "571,901,291,000",
+    "per_capita_yearly_BTU": "0.098%"
+  },
+  {
+    "country": "74",
+    "energy_consumption_BTU": "Myanmar",
+    "world_share": "518,785,351,000",
+    "per_capita_yearly_BTU": "0.089%"
+  },
+  {
+    "country": "75",
+    "energy_consumption_BTU": "Paraguay",
+    "world_share": "518,686,518,000",
+    "per_capita_yearly_BTU": "0.089%"
+  },
+  {
+    "country": "76",
+    "energy_consumption_BTU": "Panama",
+    "world_share": "439,309,187,000",
+    "per_capita_yearly_BTU": "0.075%"
+  },
+  {
+    "country": "77",
+    "energy_consumption_BTU": "Jordan",
+    "world_share": "431,068,663,000",
+    "per_capita_yearly_BTU": "0.074%"
+  },
+  {
+    "country": "78",
+    "energy_consumption_BTU": "Tunisia",
+    "world_share": "408,467,388,000",
+    "per_capita_yearly_BTU": "0.070%"
+  },
+  {
+    "country": "79",
+    "energy_consumption_BTU": "Laos",
+    "world_share": "405,305,758,000",
+    "per_capita_yearly_BTU": "0.070%"
+  },
+  {
+    "country": "80",
+    "energy_consumption_BTU": "Cuba",
+    "world_share": "401,492,995,000",
+    "per_capita_yearly_BTU": "0.069%"
+  },
+  {
+    "country": "81",
+    "energy_consumption_BTU": "Syria",
+    "world_share": "394,608,300,000",
+    "per_capita_yearly_BTU": "0.068%"
+  },
+  {
+    "country": "82",
+    "energy_consumption_BTU": "Sri Lanka",
+    "world_share": "383,419,865,000",
+    "per_capita_yearly_BTU": "0.066%"
+  },
+  {
+    "country": "83",
+    "energy_consumption_BTU": "Lebanon",
+    "world_share": "375,787,371,000",
+    "per_capita_yearly_BTU": "0.065%"
+  },
+  {
+    "country": "84",
+    "energy_consumption_BTU": "Sudan",
+    "world_share": "368,304,194,000",
+    "per_capita_yearly_BTU": "0.063%"
+  },
+  {
+    "country": "85",
+    "energy_consumption_BTU": "Angola",
+    "world_share": "362,803,130,000",
+    "per_capita_yearly_BTU": "0.062%"
+  },
+  {
+    "country": "86",
+    "energy_consumption_BTU": "Croatia",
+    "world_share": "350,684,597,000",
+    "per_capita_yearly_BTU": "0.060%"
+  },
+  {
+    "country": "87",
+    "energy_consumption_BTU": "Bolivia",
+    "world_share": "343,353,846,000",
+    "per_capita_yearly_BTU": "0.059%"
+  },
+  {
+    "country": "88",
+    "energy_consumption_BTU": "Dominican Republic",
+    "world_share": "340,462,946,000",
+    "per_capita_yearly_BTU": "0.058%"
+  },
+  {
+    "country": "89",
+    "energy_consumption_BTU": "North Korea",
+    "world_share": "330,338,632,000",
+    "per_capita_yearly_BTU": "0.057%"
+  },
+  {
+    "country": "90",
+    "energy_consumption_BTU": "Ethiopia",
+    "world_share": "323,534,822,000",
+    "per_capita_yearly_BTU": "0.056%"
+  },
+  {
+    "country": "91",
+    "energy_consumption_BTU": "Kenya",
+    "world_share": "322,257,801,000",
+    "per_capita_yearly_BTU": "0.055%"
+  },
+  {
+    "country": "92",
+    "energy_consumption_BTU": "Guatemala",
+    "world_share": "316,468,042,000",
+    "per_capita_yearly_BTU": "0.054%"
+  },
+  {
+    "country": "93",
+    "energy_consumption_BTU": "Mozambique",
+    "world_share": "287,958,923,000",
+    "per_capita_yearly_BTU": "0.049%"
+  },
+  {
+    "country": "94",
+    "energy_consumption_BTU": "Tanzania",
+    "world_share": "287,390,572,000",
+    "per_capita_yearly_BTU": "0.049%"
+  },
+  {
+    "country": "95",
+    "energy_consumption_BTU": "Slovenia",
+    "world_share": "283,912,879,000",
+    "per_capita_yearly_BTU": "0.049%"
+  },
+  {
+    "country": "96",
+    "energy_consumption_BTU": "Ghana",
+    "world_share": "273,724,117,000",
+    "per_capita_yearly_BTU": "0.047%"
+  },
+  {
+    "country": "97",
+    "energy_consumption_BTU": "Puerto Rico",
+    "world_share": "264,498,327,000",
+    "per_capita_yearly_BTU": "0.045%"
+  },
+  {
+    "country": "98",
+    "energy_consumption_BTU": "Bosnia and Herzegovina",
+    "world_share": "251,753,830,000",
+    "per_capita_yearly_BTU": "0.043%"
+  },
+  {
+    "country": "99",
+    "energy_consumption_BTU": "Georgia",
+    "world_share": "246,271,262,000",
+    "per_capita_yearly_BTU": "0.042%"
+  },
+  {
+    "country": "100",
+    "energy_consumption_BTU": "Kyrgyzstan",
+    "world_share": "241,995,314,000",
+    "per_capita_yearly_BTU": "0.042%"
+  },
+  {
+    "country": "101",
+    "energy_consumption_BTU": "Tajikistan",
+    "world_share": "225,261,633,000",
+    "per_capita_yearly_BTU": "0.039%"
+  },
+  {
+    "country": "102",
+    "energy_consumption_BTU": "Iceland",
+    "world_share": "221,449,492,000",
+    "per_capita_yearly_BTU": "0.038%"
+  },
+  {
+    "country": "103",
+    "energy_consumption_BTU": "Uruguay",
+    "world_share": "219,406,294,000",
+    "per_capita_yearly_BTU": "0.038%"
+  },
+  {
+    "country": "104",
+    "energy_consumption_BTU": "Mongolia",
+    "world_share": "215,493,720,000",
+    "per_capita_yearly_BTU": "0.037%"
+  },
+  {
+    "country": "105",
+    "energy_consumption_BTU": "Costa Rica",
+    "world_share": "214,062,173,000",
+    "per_capita_yearly_BTU": "0.037%"
+  },
+  {
+    "country": "106",
+    "energy_consumption_BTU": "Gibraltar",
+    "world_share": "192,833,000,000",
+    "per_capita_yearly_BTU": "0.033%"
+  },
+  {
+    "country": "107",
+    "energy_consumption_BTU": "Latvia",
+    "world_share": "187,516,006,000",
+    "per_capita_yearly_BTU": "0.032%"
+  },
+  {
+    "country": "108",
+    "energy_consumption_BTU": "Luxembourg",
+    "world_share": "183,445,565,000",
+    "per_capita_yearly_BTU": "0.031%"
+  },
+  {
+    "country": "109",
+    "energy_consumption_BTU": "C\u00f4te d'Ivoire",
+    "world_share": "178,773,633,000",
+    "per_capita_yearly_BTU": "0.031%"
+  },
+  {
+    "country": "110",
+    "energy_consumption_BTU": "Zambia",
+    "world_share": "177,977,721,000",
+    "per_capita_yearly_BTU": "0.031%"
+  },
+  {
+    "country": "111",
+    "energy_consumption_BTU": "Brunei",
+    "world_share": "176,864,953,000",
+    "per_capita_yearly_BTU": "0.030%"
+  },
+  {
+    "country": "112",
+    "energy_consumption_BTU": "Honduras",
+    "world_share": "171,400,051,000",
+    "per_capita_yearly_BTU": "0.029%"
+  },
+  {
+    "country": "113",
+    "energy_consumption_BTU": "Cambodia",
+    "world_share": "168,697,663,000",
+    "per_capita_yearly_BTU": "0.029%"
+  },
+  {
+    "country": "114",
+    "energy_consumption_BTU": "Nepal",
+    "world_share": "161,222,108,000",
+    "per_capita_yearly_BTU": "0.028%"
+  },
+  {
+    "country": "115",
+    "energy_consumption_BTU": "Zimbabwe",
+    "world_share": "158,453,760,000",
+    "per_capita_yearly_BTU": "0.027%"
+  },
+  {
+    "country": "116",
+    "energy_consumption_BTU": "Lithuania",
+    "world_share": "150,839,505,000",
+    "per_capita_yearly_BTU": "0.026%"
+  },
+  {
+    "country": "117",
+    "energy_consumption_BTU": "Armenia",
+    "world_share": "148,536,904,000",
+    "per_capita_yearly_BTU": "0.026%"
+  },
+  {
+    "country": "118",
+    "energy_consumption_BTU": "Cameroon",
+    "world_share": "147,800,591,000",
+    "per_capita_yearly_BTU": "0.025%"
+  },
+  {
+    "country": "119",
+    "energy_consumption_BTU": "Afghanistan",
+    "world_share": "144,694,375,000",
+    "per_capita_yearly_BTU": "0.025%"
+  },
+  {
+    "country": "120",
+    "energy_consumption_BTU": "Yemen",
+    "world_share": "138,496,775,000",
+    "per_capita_yearly_BTU": "0.024%"
+  },
+  {
+    "country": "121",
+    "energy_consumption_BTU": "El Salvador",
+    "world_share": "132,276,983,000",
+    "per_capita_yearly_BTU": "0.023%"
+  },
+  {
+    "country": "122",
+    "energy_consumption_BTU": "DR Congo",
+    "world_share": "132,065,701,000",
+    "per_capita_yearly_BTU": "0.023%"
+  },
+  {
+    "country": "123",
+    "energy_consumption_BTU": "Senegal",
+    "world_share": "130,707,004,000",
+    "per_capita_yearly_BTU": "0.022%"
+  },
+  {
+    "country": "124",
+    "energy_consumption_BTU": "Malta",
+    "world_share": "128,532,491,000",
+    "per_capita_yearly_BTU": "0.022%"
+  },
+  {
+    "country": "125",
+    "energy_consumption_BTU": "Jamaica",
+    "world_share": "128,130,859,001",
+    "per_capita_yearly_BTU": "0.022%"
+  },
+  {
+    "country": "126",
+    "energy_consumption_BTU": "Moldova",
+    "world_share": "128,017,617,000",
+    "per_capita_yearly_BTU": "0.022%"
+  },
+  {
+    "country": "127",
+    "energy_consumption_BTU": "Cyprus",
+    "world_share": "117,196,038,000",
+    "per_capita_yearly_BTU": "0.020%"
+  },
+  {
+    "country": "128",
+    "energy_consumption_BTU": "Albania",
+    "world_share": "111,843,460,000",
+    "per_capita_yearly_BTU": "0.019%"
+  },
+  {
+    "country": "129",
+    "energy_consumption_BTU": "North Macedonia",
+    "world_share": "100,005,786,000",
+    "per_capita_yearly_BTU": "0.017%"
+  },
+  {
+    "country": "130",
+    "energy_consumption_BTU": "Nicaragua",
+    "world_share": "98,675,888,000",
+    "per_capita_yearly_BTU": "0.017%"
+  },
+  {
+    "country": "131",
+    "energy_consumption_BTU": "Benin",
+    "world_share": "97,181,607,000",
+    "per_capita_yearly_BTU": "0.017%"
+  },
+  {
+    "country": "132",
+    "energy_consumption_BTU": "Uganda",
+    "world_share": "97,180,787,000",
+    "per_capita_yearly_BTU": "0.017%"
+  },
+  {
+    "country": "133",
+    "energy_consumption_BTU": "Botswana",
+    "world_share": "96,035,971,000",
+    "per_capita_yearly_BTU": "0.016%"
+  },
+  {
+    "country": "134",
+    "energy_consumption_BTU": "Congo",
+    "world_share": "95,621,923,000",
+    "per_capita_yearly_BTU": "0.016%"
+  },
+  {
+    "country": "135",
+    "energy_consumption_BTU": "Papua New Guinea",
+    "world_share": "93,500,964,000",
+    "per_capita_yearly_BTU": "0.016%"
+  },
+  {
+    "country": "136",
+    "energy_consumption_BTU": "Mauritius",
+    "world_share": "90,076,344,000",
+    "per_capita_yearly_BTU": "0.015%"
+  },
+  {
+    "country": "137",
+    "energy_consumption_BTU": "Estonia",
+    "world_share": "87,785,565,000",
+    "per_capita_yearly_BTU": "0.015%"
+  },
+  {
+    "country": "138",
+    "energy_consumption_BTU": "Namibia",
+    "world_share": "79,767,587,000",
+    "per_capita_yearly_BTU": "0.014%"
+  },
+  {
+    "country": "139",
+    "energy_consumption_BTU": "New Caledonia",
+    "world_share": "78,485,011,000",
+    "per_capita_yearly_BTU": "0.013%"
+  },
+  {
+    "country": "140",
+    "energy_consumption_BTU": "Gabon",
+    "world_share": "68,381,605,000",
+    "per_capita_yearly_BTU": "0.012%"
+  },
+  {
+    "country": "141",
+    "energy_consumption_BTU": "State of Palestine",
+    "world_share": "65,933,937,000",
+    "per_capita_yearly_BTU": "0.011%"
+  },
+  {
+    "country": "142",
+    "energy_consumption_BTU": "Bhutan",
+    "world_share": "61,282,453,000",
+    "per_capita_yearly_BTU": "0.011%"
+  },
+  {
+    "country": "143",
+    "energy_consumption_BTU": "Mali",
+    "world_share": "60,540,614,000",
+    "per_capita_yearly_BTU": "0.010%"
+  },
+  {
+    "country": "144",
+    "energy_consumption_BTU": "Equatorial Guinea",
+    "world_share": "59,811,150,000",
+    "per_capita_yearly_BTU": "0.010%"
+  },
+  {
+    "country": "145",
+    "energy_consumption_BTU": "Madagascar",
+    "world_share": "54,364,625,000",
+    "per_capita_yearly_BTU": "0.0093%"
+  },
+  {
+    "country": "146",
+    "energy_consumption_BTU": "Burkina Faso",
+    "world_share": "49,416,394,000",
+    "per_capita_yearly_BTU": "0.0085%"
+  },
+  {
+    "country": "147",
+    "energy_consumption_BTU": "Macao",
+    "world_share": "48,682,524,000",
+    "per_capita_yearly_BTU": "0.0084%"
+  },
+  {
+    "country": "148",
+    "energy_consumption_BTU": "Haiti",
+    "world_share": "48,163,170,000",
+    "per_capita_yearly_BTU": "0.0083%"
+  },
+  {
+    "country": "149",
+    "energy_consumption_BTU": "Guinea",
+    "world_share": "48,146,986,000",
+    "per_capita_yearly_BTU": "0.0083%"
+  },
+  {
+    "country": "150",
+    "energy_consumption_BTU": "R\u00e9union",
+    "world_share": "46,915,585,000",
+    "per_capita_yearly_BTU": "0.0081%"
+  },
+  {
+    "country": "151",
+    "energy_consumption_BTU": "Montenegro",
+    "world_share": "43,490,743,000",
+    "per_capita_yearly_BTU": "0.0075%"
+  },
+  {
+    "country": "152",
+    "energy_consumption_BTU": "Bahamas",
+    "world_share": "42,853,849,000",
+    "per_capita_yearly_BTU": "0.0074%"
+  },
+  {
+    "country": "153",
+    "energy_consumption_BTU": "Togo",
+    "world_share": "41,108,083,000",
+    "per_capita_yearly_BTU": "0.0071%"
+  },
+  {
+    "country": "154",
+    "energy_consumption_BTU": "Mauritania",
+    "world_share": "39,378,962,000",
+    "per_capita_yearly_BTU": "0.0068%"
+  },
+  {
+    "country": "155",
+    "energy_consumption_BTU": "Fiji",
+    "world_share": "38,870,204,000",
+    "per_capita_yearly_BTU": "0.0067%"
+  },
+  {
+    "country": "156",
+    "energy_consumption_BTU": "Suriname",
+    "world_share": "38,652,993,000",
+    "per_capita_yearly_BTU": "0.0066%"
+  },
+  {
+    "country": "157",
+    "energy_consumption_BTU": "Martinique",
+    "world_share": "36,175,538,000",
+    "per_capita_yearly_BTU": "0.0062%"
+  },
+  {
+    "country": "158",
+    "energy_consumption_BTU": "Niger",
+    "world_share": "34,310,284,001",
+    "per_capita_yearly_BTU": "0.0059%"
+  },
+  {
+    "country": "159",
+    "energy_consumption_BTU": "U.S. Virgin Islands",
+    "world_share": "33,991,878,001",
+    "per_capita_yearly_BTU": "0.0058%"
+  },
+  {
+    "country": "160",
+    "energy_consumption_BTU": "Malawi",
+    "world_share": "31,388,331,000",
+    "per_capita_yearly_BTU": "0.0054%"
+  },
+  {
+    "country": "161",
+    "energy_consumption_BTU": "Guyana",
+    "world_share": "30,165,867,000",
+    "per_capita_yearly_BTU": "0.0052%"
+  },
+  {
+    "country": "162",
+    "energy_consumption_BTU": "Guadeloupe",
+    "world_share": "28,095,517,000",
+    "per_capita_yearly_BTU": "0.0048%"
+  },
+  {
+    "country": "163",
+    "energy_consumption_BTU": "Guam",
+    "world_share": "27,908,500,000",
+    "per_capita_yearly_BTU": "0.0048%"
+  },
+  {
+    "country": "164",
+    "energy_consumption_BTU": "Barbados",
+    "world_share": "24,763,656,000",
+    "per_capita_yearly_BTU": "0.0043%"
+  },
+  {
+    "country": "165",
+    "energy_consumption_BTU": "Maldives",
+    "world_share": "24,704,426,000",
+    "per_capita_yearly_BTU": "0.0042%"
+  },
+  {
+    "country": "166",
+    "energy_consumption_BTU": "Eswatini",
+    "world_share": "20,439,383,000",
+    "per_capita_yearly_BTU": "0.0035%"
+  },
+  {
+    "country": "167",
+    "energy_consumption_BTU": "Aruba",
+    "world_share": "17,606,311,000",
+    "per_capita_yearly_BTU": "0.0030%"
+  },
+  {
+    "country": "168",
+    "energy_consumption_BTU": "Liberia",
+    "world_share": "16,601,000,001",
+    "per_capita_yearly_BTU": "0.0029%"
+  },
+  {
+    "country": "169",
+    "energy_consumption_BTU": "South Sudan",
+    "world_share": "16,407,639,001",
+    "per_capita_yearly_BTU": "0.0028%"
+  },
+  {
+    "country": "170",
+    "energy_consumption_BTU": "Rwanda",
+    "world_share": "15,834,435,000",
+    "per_capita_yearly_BTU": "0.0027%"
+  },
+  {
+    "country": "171",
+    "energy_consumption_BTU": "French Guiana",
+    "world_share": "15,686,060,001",
+    "per_capita_yearly_BTU": "0.0027%"
+  },
+  {
+    "country": "172",
+    "energy_consumption_BTU": "Seychelles",
+    "world_share": "15,644,000,001",
+    "per_capita_yearly_BTU": "0.0027%"
+  },
+  {
+    "country": "173",
+    "energy_consumption_BTU": "Lesotho",
+    "world_share": "15,324,212,000",
+    "per_capita_yearly_BTU": "0.0026%"
+  },
+  {
+    "country": "174",
+    "energy_consumption_BTU": "French Polynesia",
+    "world_share": "15,199,494,000",
+    "per_capita_yearly_BTU": "0.0026%"
+  },
+  {
+    "country": "175",
+    "energy_consumption_BTU": "Sierra Leone",
+    "world_share": "13,386,542,000",
+    "per_capita_yearly_BTU": "0.0023%"
+  },
+  {
+    "country": "176",
+    "energy_consumption_BTU": "Belize",
+    "world_share": "12,727,469,000",
+    "per_capita_yearly_BTU": "0.0022%"
+  },
+  {
+    "country": "177",
+    "energy_consumption_BTU": "Greenland",
+    "world_share": "12,683,792,000",
+    "per_capita_yearly_BTU": "0.0022%"
+  },
+  {
+    "country": "178",
+    "energy_consumption_BTU": "Cabo Verde",
+    "world_share": "12,660,679,000",
+    "per_capita_yearly_BTU": "0.0022%"
+  },
+  {
+    "country": "179",
+    "energy_consumption_BTU": "Djibouti",
+    "world_share": "12,152,607,000",
+    "per_capita_yearly_BTU": "0.0021%"
+  },
+  {
+    "country": "180",
+    "energy_consumption_BTU": "Somalia",
+    "world_share": "12,100,621,000",
+    "per_capita_yearly_BTU": "0.0021%"
+  },
+  {
+    "country": "181",
+    "energy_consumption_BTU": "Faeroe Islands",
+    "world_share": "11,506,210,000",
+    "per_capita_yearly_BTU": "0.0020%"
+  },
+  {
+    "country": "182",
+    "energy_consumption_BTU": "Bermuda",
+    "world_share": "11,252,000,000",
+    "per_capita_yearly_BTU": "0.0019%"
+  },
+  {
+    "country": "183",
+    "energy_consumption_BTU": "Eritrea",
+    "world_share": "10,870,852,000",
+    "per_capita_yearly_BTU": "0.0019%"
+  },
+  {
+    "country": "184",
+    "energy_consumption_BTU": "Antigua and Barbuda",
+    "world_share": "10,605,278,000",
+    "per_capita_yearly_BTU": "0.0018%"
+  },
+  {
+    "country": "185",
+    "energy_consumption_BTU": "Cayman Islands",
+    "world_share": "9,514,000,000",
+    "per_capita_yearly_BTU": "0.0016%"
+  },
+  {
+    "country": "186",
+    "energy_consumption_BTU": "Timor-Leste",
+    "world_share": "8,615,000,000",
+    "per_capita_yearly_BTU": "0.0015%"
+  },
+  {
+    "country": "187",
+    "energy_consumption_BTU": "Gambia",
+    "world_share": "7,564,000,000",
+    "per_capita_yearly_BTU": "0.0013%"
+  },
+  {
+    "country": "188",
+    "energy_consumption_BTU": "Central African Republic",
+    "world_share": "7,065,635,000",
+    "per_capita_yearly_BTU": "0.0012%"
+  },
+  {
+    "country": "189",
+    "energy_consumption_BTU": "Saint Lucia",
+    "world_share": "6,991,213,000",
+    "per_capita_yearly_BTU": "0.0012%"
+  },
+  {
+    "country": "190",
+    "energy_consumption_BTU": "Samoa",
+    "world_share": "5,672,659,000",
+    "per_capita_yearly_BTU": "0.00097%"
+  },
+  {
+    "country": "191",
+    "energy_consumption_BTU": "Burundi",
+    "world_share": "5,374,860,000",
+    "per_capita_yearly_BTU": "0.00092%"
+  },
+  {
+    "country": "192",
+    "energy_consumption_BTU": "Chad",
+    "world_share": "4,879,681,000",
+    "per_capita_yearly_BTU": "0.00084%"
+  },
+  {
+    "country": "193",
+    "energy_consumption_BTU": "Solomon Islands",
+    "world_share": "4,770,491,000",
+    "per_capita_yearly_BTU": "0.00082%"
+  },
+  {
+    "country": "194",
+    "energy_consumption_BTU": "Turks and Caicos",
+    "world_share": "4,606,000,000",
+    "per_capita_yearly_BTU": "0.00079%"
+  },
+  {
+    "country": "195",
+    "energy_consumption_BTU": "Guinea-Bissau",
+    "world_share": "4,395,213,000",
+    "per_capita_yearly_BTU": "0.00075%"
+  },
+  {
+    "country": "196",
+    "energy_consumption_BTU": "Grenada",
+    "world_share": "4,338,852,000",
+    "per_capita_yearly_BTU": "0.00075%"
+  },
+  {
+    "country": "197",
+    "energy_consumption_BTU": "Dominica",
+    "world_share": "3,949,649,001",
+    "per_capita_yearly_BTU": "0.00068%"
+  },
+  {
+    "country": "198",
+    "energy_consumption_BTU": "Comoros",
+    "world_share": "3,848,000,000",
+    "per_capita_yearly_BTU": "0.00066%"
+  },
+  {
+    "country": "199",
+    "energy_consumption_BTU": "British Virgin Islands",
+    "world_share": "3,397,977,000",
+    "per_capita_yearly_BTU": "0.00058%"
+  },
+  {
+    "country": "200",
+    "energy_consumption_BTU": "Saint Kitts & Nevis",
+    "world_share": "3,317,704,000",
+    "per_capita_yearly_BTU": "0.00057%"
+  },
+  {
+    "country": "201",
+    "energy_consumption_BTU": "Vanuatu",
+    "world_share": "3,059,838,000",
+    "per_capita_yearly_BTU": "0.00053%"
+  },
+  {
+    "country": "202",
+    "energy_consumption_BTU": "Western Sahara",
+    "world_share": "3,022,000,000",
+    "per_capita_yearly_BTU": "0.00052%"
+  },
+  {
+    "country": "203",
+    "energy_consumption_BTU": "St. Vincent & Grenadines",
+    "world_share": "2,596,000,000",
+    "per_capita_yearly_BTU": "0.00045%"
+  },
+  {
+    "country": "204",
+    "energy_consumption_BTU": "Sao Tome & Principe",
+    "world_share": "2,366,491,000",
+    "per_capita_yearly_BTU": "0.00041%"
+  },
+  {
+    "country": "205",
+    "energy_consumption_BTU": "Saint Pierre & Miquelon",
+    "world_share": "1,982,000,000",
+    "per_capita_yearly_BTU": "0.00034%"
+  },
+  {
+    "country": "206",
+    "energy_consumption_BTU": "Tonga",
+    "world_share": "1,807,000,000",
+    "per_capita_yearly_BTU": "0.00031%"
+  },
+  {
+    "country": "207",
+    "energy_consumption_BTU": "Cook Islands",
+    "world_share": "1,677,278,000",
+    "per_capita_yearly_BTU": "0.00029%"
+  },
+  {
+    "country": "208",
+    "energy_consumption_BTU": "Falkland Islands",
+    "world_share": "82,900,000",
+    "per_capita_yearly_BTU": "0.000014%"
+  },
+  {
+    "country": "209",
+    "energy_consumption_BTU": "Kiribati",
+    "world_share": "46,100,000",
+    "per_capita_yearly_BTU": "0.0000079%"
+  }
+]
